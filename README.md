@@ -1,2 +1,4 @@
 # devops-aula02.
-aula DevOps
+Paula Oliveira
+Fernanda Lima
+Juliana Paes
